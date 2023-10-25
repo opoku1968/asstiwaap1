@@ -84,13 +84,13 @@
      cursor: pointer;
  }
 
- .b {
+ .blog {
      display: flex;
      flex-wrap: wrap;
      margin-top: 20px;
  }
 
- .blog h2 {
+ .blog {
      margin-bottom: 20px;
      text-align: center;
      align-items: center;
