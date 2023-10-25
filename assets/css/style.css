@@ -64,12 +64,12 @@
      overflow: hidden;
  }
 
- .slid {
+ .slides {
      display: flex;
      transition: transform 0.5s;
  }
 
- .slide {
+ .sli {
      flex: 0 0 100%;
  }
 
