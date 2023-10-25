@@ -35,11 +35,11 @@
      align-items: center;
  }
 
- .navbar {
+ .navbar ul {
      display: flex;
  }
 
- .navbar li {
+ .navbar {
      margin: 0 20px;
  }
 
