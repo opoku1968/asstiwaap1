@@ -105,7 +105,7 @@
      border: 1px solid #ccc;
  }
 
- .latest- {
+ .latest-post {
      order: 2;
      /* Places the latest post in the middle */
  }
@@ -113,7 +113,7 @@
  /* Additional styles for images, titles, etc. can be added here */
 
 
- footer {
+ foo {
      background-color: #333;
      color: #fff;
      padding: 10px;
