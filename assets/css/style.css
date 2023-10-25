@@ -90,13 +90,13 @@
      margin-top: 20px;
  }
 
- .blog {
+ .blog h2 {
      margin-bottom: 20px;
      text-align: center;
      align-items: center;
  }
 
- .blog-post {
+ .blog- {
      max-width: 400px;
      /* Adjust the width as needed */
      text-align: left;
