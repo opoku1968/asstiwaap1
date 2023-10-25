@@ -78,13 +78,13 @@
      height: auto;
  }
 
- .menu- {
+ .menu-icon {
      display: none;
      font-size: 24px;
      cursor: pointer;
  }
 
- .blog {
+ .b {
      display: flex;
      flex-wrap: wrap;
      margin-top: 20px;
