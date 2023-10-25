@@ -30,12 +30,12 @@
      /* Adjust the width as needed */
  }
 
- .nav {
+ .navbar {
      display: flex;
      align-items: center;
  }
 
- .navbar ul {
+ .navbar {
      display: flex;
  }
 
