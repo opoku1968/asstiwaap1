@@ -121,7 +121,7 @@
  }
 
  @media (max-width: 768px) {
-     .nav ul {
+     .navbar ul {
          display: none;
          flex-direction: column;
          background-color: #333;
@@ -131,7 +131,7 @@
          right: 0;
      }
 
-     .navbar li {
+     .navbar {
          margin: 10px 0;
          text-align: center;
      }
