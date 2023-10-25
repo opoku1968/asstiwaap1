@@ -73,12 +73,12 @@
      flex: 0 0 100%;
  }
 
-     {
+ img {
      max-width: 100%;
      height: auto;
  }
 
- .menu-icon {
+ .menu- {
      display: none;
      font-size: 24px;
      cursor: pointer;
