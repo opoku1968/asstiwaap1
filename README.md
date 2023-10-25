@@ -1,39 +1,34 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Yaa Asantewaa History
 
-Welcome,
+This is a simple website that provides information about Yaa Asantewaa, a prominent historical figure in Ghana's history.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Table of Contents
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Codeanywhere Reminders
+## Description
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+This website is dedicated to sharing the history and significance of Yaa Asantewaa, a courageous queen mother who played a pivotal role in the Ashanti-British "War of the Golden Stool." Yaa Asantewaa's story is one of bravery, leadership, and resistance in the face of British colonial rule.
 
-`python3 -m http.server`
+## Installation
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+There is no installation required for this project. You can simply access the website by opening the `index.html` file in a web browser.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+```html
+index.html
 
-`http_server`
+sage
+To view the website and learn more about Yaa Asantewaa, follow these steps:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Clone or download this repository to your local machine.
+Navigate to the project directory.
+Open the index.html file in your preferred web browser.
+Contributing
+If you would like to contribute to this project, feel free to submit pull requests or open issues on the project's GitHub repository.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+License
+This project is licensed under the PRINCE WILLAMS OPPONG License - see the LICENSE file for details.
