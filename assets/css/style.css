@@ -25,12 +25,12 @@
      align-items: center;
  }
 
- .logo {
+ .logo img {
      max-width: 100px;
      /* Adjust the width as needed */
  }
 
- .navbar {
+ .nav {
      display: flex;
      align-items: center;
  }
