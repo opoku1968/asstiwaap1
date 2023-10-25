@@ -39,11 +39,11 @@
      display: flex;
  }
 
- .navbar {
+ .navbar li {
      margin: 0 20px;
  }
 
- .navbar a {
+ .navbar {
      text-decoration: none;
      color: #fff;
  }
