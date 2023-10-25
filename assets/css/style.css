@@ -59,12 +59,12 @@
      padding: 20px;
  }
 
- .sli {
+ .slider {
      max-width: 100%;
      overflow: hidden;
  }
 
- .slides {
+ .slid {
      display: flex;
      transition: transform 0.5s;
  }
