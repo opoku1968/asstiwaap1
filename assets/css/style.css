@@ -136,11 +136,11 @@
          text-align: center;
      }
 
-     .menu-i {
+     .menu-icon {
          display: block;
      }
 
-     .menu-visible {
+     .menu- {
          display: flex;
      }
  }
