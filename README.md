@@ -63,8 +63,8 @@ The Yaa Asantewaa History website has undergone thorough testing to ensure funct
 
 #### Footer
 
-- **Expected:** Social media links in the footer should open in new tabs.
-- **Result:** Footer links open in new tabs, allowing users to easily connect through social media.
+- **Expected:** Display copyright information
+- **Result:** Footer shows copyright info as expected
 
 ### Responsiveness Testing
 
