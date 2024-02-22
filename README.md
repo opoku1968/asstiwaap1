@@ -11,9 +11,19 @@ The Yaa Asantewaa History website is dedicated to preserving and sharing the rem
   - Featured on all pages, the responsive navigation bar facilitates easy navigation to the Home, Gallery, and About Us pages.
   - Consistent across all pages for a seamless user experience.
 
+
+### Home
+
+- The Home Page gives a detailed account of the life and Legacy of Nana Yaa Asantewaa 
+
 ### Gallery
 
 - A gallery featuring images related to Yaa Asantewaa allows users to visually connect with the historical context of her life.
+
+
+### About Page
+
+- This page gives a summarised biography of the great Ashanti Female Warrior Yaa Asantewaa
 
 ### Footer
 
@@ -30,9 +40,15 @@ The Yaa Asantewaa History website has undergone thorough testing to ensure funct
 - **Expected:** Navigation bar links should direct users to the corresponding pages.
 - **Result:** All navigation links are functional and lead to the correct pages.
 
-#### About Yaa Asantewaa
+#### Home 
 
 - **Expected:** Detailed information about Yaa Asantewaa's life should be presented clearly.
+- **Result:** The content provides a comprehensive overview of Yaa Asantewaa's life.
+
+
+#### About 
+
+- **Expected:** Summarised information about Yaa Asantewaa's life should be presented clearly.
 - **Result:** The content is well-organized, providing a comprehensive overview of Yaa Asantewaa's life.
 
 #### More Info Section
@@ -72,10 +88,12 @@ The Yaa Asantewaa History website has been tested on different browsers to ensur
 #### HTML
 
 - **Result:** Passed W3C validator without errors.
+[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fopoku1968.github.io%2Fasstiwaap1%2Findex.html)
 
 #### CSS
 
 - **Result:** Passed Jigsaw validator without errors.
+[Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fopoku1968.github.io%2Fasstiwaap1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unresolved Issues
 
@@ -107,21 +125,45 @@ The Yaa Asantewaa History website is deployed on GitHub Pages. Below are the ste
    - The live site is accessible at the following URL: [Yaa Asantewaa History](https://opoku1968.github.io/asstiwaap1/index.html).
 
 
-## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+## Credits
 
-### Content 
+### Content
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The historical information about Yaa Asantewaa presented on the website is derived from various historical records, including academic publications, articles, and reputable online sources. The primary goal is to provide an accurate and well-researched account of Yaa Asantewaa's life and contributions.
+
+  - References:
+    - [GhanaWeb - Yaa Asantewaa](https://www.ghanaweb.com/person/Yaa-Asantewaa-175)
+    - [Wikipedia - Yaa Asantewaa](https://en.wikipedia.org/wiki/Yaa_Asantewaa)
+
+
+- The direct quotes attributed to Yaa Asantewaa during the Ashanti-British "War of the Golden Stool" are based on historical records and documented speeches from that period.
+    - References:
+        - [Wikipedia - Yaa Asantewaa](https://en.wikipedia.org/wiki/Yaa_Asantewaa)
+
+
+- The content on the website has been written and compiled by Kofi Opoku (Me), the author and developer of this project.
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The images used in this project, including the logo, slider image, and historical photographs, are sourced from open-access repositories, historical archives, and public domain collections. The goal is to respect copyright and use images that are freely available for public use.
 
+- The slider image ("assets/images/yaa_slider.jpg") is sourced from Google Images.
+
+- The logo image ("assets/images/logo.png")  sourced from Google Images.
+
+- Historical photographs used in the content are credited to their respective sources, which may include historical archives, museums, or online repositories.
+
+### Code and Implementation
+
+- The website layout and styling are based on custom code created by Kofi Opoku (ME). The CSS styles, HTML structure, and interactive features are original work for this project.
+
+- Inspiration for responsive design and navigation implementation was drawn from various online tutorials and resources, including [W3's Tutorials](https://www.w3schools.com/html/html_responsive.asp).
+
+- The script for the mobile menu toggle was adapted from a tutorial by W3 Schools at [W3 Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp).
+
+### Acknowledgments
+
+- Special thanks to Kwadwo Pobi Aning and Samuel Ardeyfio for their guidance, feedback, and support during the development of this project.
 
