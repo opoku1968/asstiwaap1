@@ -100,10 +100,10 @@ The Yaa Asantewaa History website has been tested on different browsers to ensur
 No significant bugs or issues were identified during testing. The website performs optimally across various platforms and browsers.
 
 ### Screenshots of finished Project
-![alt text](<Screenshot (279)-6.png>)
-![alt text](image-1.png)
-![alt text](image.png)
-![alt text](image-2.png)
+![alt text](assets/images/Screenshot279.png)
+![alt text](assets/images/Screenshot280.png)
+![alt text](assets/images/Screenshot281.png)
+![alt text](assets/images/image.png)
 
 ## Deployment
 
