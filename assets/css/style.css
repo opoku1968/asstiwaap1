@@ -9,13 +9,13 @@
      padding: 0;
      list-style: none;
  }
-
+/*Add style to the body*/
  body {
      font-family: Arial, sans-serif;
      background-color: #f0f0f0;
      color: #333;
  }
-
+/*Add style to the header*/
  header {
      background-color: #333;
      color: #fff;
@@ -29,71 +29,72 @@
      max-width: 100px;
      /* Adjust the width as needed */
  }
-
+/*style navbar*/
  .navbar {
      display: flex;
      align-items: center;
  }
-
+/*style navbar ul*/
  .navbar ul {
      display: flex;
  }
-
+/*style navbar li*/
  .navbar li {
      margin: 0 20px;
  }
-
+/*style navbar a*/
  .navbar a {
      text-decoration: none;
      color: #fff;
  }
-
+/*style container*/
  .container {
      max-width: 1200px;
      margin: 0 auto;
      padding: 20px;
  }
-
+/*style content*/
  .content {
      background-color: #fff;
      padding: 20px;
      
  }
+ /*style content p*/
  .content p {
     margin-bottom: 10px;
  }
-
+/*style slider*/
  .slider {
      max-width: 100%;
      overflow: hidden;
  }
-
+/*style sliders*/
  .slides {
      display: flex;
      transition: transform 0.5s;
  }
-
+/* give flex to slide*/
  .slide {
      flex: 0 0 100%;
  }
-
+/*style img*/
  img {
      max-width: 100%;
      height: auto;
  }
-
+/*style menu-icon*/
  .menu-icon {
      display: none;
      font-size: 24px;
      cursor: pointer;
  }
-
+/*style blog*/
  .blog {
      display: flex;
      flex-wrap: wrap;
      margin-top: 20px;
  }
-
+/*style blog h2*/
  .blog h2 {
      margin-bottom: 20px;
      text-align: center;
@@ -116,14 +117,14 @@
 
  /* Additional styles for images, titles, etc. can be added here */
 
-
+/*style footer*/
  footer {
      background-color: #333;
      color: #fff;
      padding: 10px;
      text-align: center;
  }
-
+/*style @media*/
  @media (max-width: 768px) {
      .navbar ul {
          display: none;
@@ -135,19 +136,23 @@
          right: 0;
      }
 
+     /*style navbar li*/
      .navbar li {
          margin: 10px 0;
          text-align: center;
      }
 
+     /*style menu-icon*/
      .menu-icon {
          display: block;
      }
 
+     /*style menu*/
      .menu- {
          display: flex;
      }
- }
+    }
+    /*style rightsidebar*/
 
  .rightsidebar {
      margin-top: 0px;
