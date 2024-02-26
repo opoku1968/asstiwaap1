@@ -150,6 +150,7 @@ The Yaa Asantewaa History website is deployed on GitHub Pages. Below are the ste
 - The images used in this project, including the logo, slider image, and historical photographs, are sourced from open-access repositories, historical archives, and public domain collections. The goal is to respect copyright and use images that are freely available for public use.
 
 - The slider image ("assets/images/yaa_slider.jpg") is sourced from Google Images.
+- Yaa Asantewaa video is sourced from Lindsay Holiday's youtube documentary of Yaa Asantewaa [Youtube - Yaa Asantewaa](https://www.youtube.com/watch?v=D7f8rCIQrlo)
 
 - The logo image ("assets/images/logo.png")  sourced from Google Images.
 
