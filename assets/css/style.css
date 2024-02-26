@@ -25,6 +25,10 @@
      align-items: center;
  }
 
+ .video-container {
+    text-align: center;
+}
+
  .logo img {
      max-width: 100px;
      /* Adjust the width as needed */
